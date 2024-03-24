@@ -1,0 +1,98 @@
+# Nigeria Bank
+
+# ALAT BY WEMA
+DOMAIN,apibox.alat.ng
+DOMAIN,abujaralatsignalr.azurewebsites.net
+DOMAIN-SUFFIX,alat.ng
+DOMAIN-KEYWORD,alat
+
+# Access
+DOMAIN-SUFFIX,accessbankplc.com
+DOMAIN-KEYWORD,accessbankplc
+
+# BlinkCash
+DOMAIN-SUFFIX,blinkcash.ng
+
+# Chipper Cash
+DOMAIN,compliance.chippercash.com
+DOMAIN,auth.chippercash.com
+DOMAIN,api.chippercash.com
+DOMAIN-SUFFIX,chippercash.com
+DOMAIN-SUFFIX,mobile-messenger.intercom.com
+DOMAIN-KEYWORD,chippercash
+
+# Cabon
+DOMAIN,api.paylater.ng
+DOMAIN,salesiq.zoho.com
+DOMAIN,vts.zohopublic.com
+DOMAIN-SUFFIX,paylater.ng
+DOMAIN-SUFFIX,zoho.com
+DOMAIN-SUFFIX,zohopublic.com
+
+# CashEx
+DOMAIN,www.cashex.app
+DOMAIN,cashex-gateway-34bf7qxe.ue.gateway.dev
+DOMAIN-SUFFIX,cashex.app
+DOMAIN-KEYWORD,cashex
+
+# GT
+DOMAIN-SUFFIX,gtbank.com
+DOMAIN-KEYWORD,gtbank
+
+# Globus
+DOMAIN-SUFFIX,globusbank.com
+DOMAIN-KEYWORD,globusbank
+
+# Klasha
+DOMAIN-SUFFIX,kcookery.com
+
+# Kredi
+DOMAIN-SUFFIX,lendsqr.com
+DOMAIN-SUFFIX,obscudo.com
+
+# KUDA
+DOMAIN,retailapigateway.kuda.com
+DOMAIN-SUFFIX,kuda.com
+DOMAIN-SUFFIX,kudabank.com
+DOMAIN-KEYWORD,kuda
+DOMAIN-KEYWORD,kudabank
+
+# LOMA
+DOMAIN-SUFFIX,lomabank.com
+DOMAIN-KEYWORD,lomabank
+
+# NALA
+DOMAIN-SUFFIX,nala.ninja
+DOMAIN-SUFFIX,nala-api.com
+
+# Opay
+DOMAIN-SUFFIX,opayweb.com
+
+# PocketApp
+DOMAIN,api.okhi.io
+DOMAIN,pocketapp.com
+DOMAIN,www.polarisbanklimited.com
+DOMAIN-SUFFIX,okhi.io
+DOMAIN-SUFFIX,pocketapp.com
+DOMAIN-SUFFIX,polarisbanklimited.com
+DOMAIN-KEYWORD,okhi
+DOMAIN-KEYWORD,pocketapp
+DOMAIN-KEYWORD,polarisbanklimited
+
+# Sterling
+DOMAIN-SUFFIX,sterling.ng
+DOMAIN-KEYWORD,sterling
+DOMAIN-KEYWORD,onebank
+
+# Stateside Bank
+DOMAIN-SUFFIX,statesidebank.com
+
+# SparkleApp
+DOMAIN,sparkleapp.com
+DOMAIN,apigateway.sparkleapp.in
+DOMAIN-SUFFIX,sparkleapp.com
+DOMAIN-SUFFIX,sparkleapp.in
+
+# Titan
+DOMAIN-SUFFIX,titantrustbank.com
+DOMAIN-KEYWORD,titantrustbank

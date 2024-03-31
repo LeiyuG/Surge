@@ -1,0 +1,5 @@
+#!name=临时关闭Surge
+#!desc=在指定Wi-Fi网络关闭Surge
+
+[SSID Setting]
+"Linksys_Kimigao_5G" suspend=true

@@ -2,8 +2,8 @@
 #!desc=在原本不能登入 Ozan 的裝置安裝此模組。複製原本裝置的 OzanUUID 後，修改「[Ozan]設定新裝置UUID」的內容，並執行腳本即可使用。 v20240402
 
 [Script]
-[Ozan]設定新裝置UUID = script-path=https://kinta.ma/surge/scripts/ozan_set_uuid.js
-[Ozan]偽造新裝置UUID = type=http-request, pattern=^https://(op-prod-tr\.ozan|secure\.ozansuperapp).com/api/.+, script-path=https://kinta.ma/surge/scripts/ozan_fake_uuid.js
+[Ozan]設定新裝置UUID = script-path=https://raw.githubusercontent.com/LeiyuG/Surge/main/scripts/ozan_set_uuid.js
+[Ozan]偽造新裝置UUID = type=http-request, pattern=^https://(op-prod-tr\.ozan|secure\.ozansuperapp).com/api/.+, script-path=https://raw.githubusercontent.com/LeiyuG/Surge/main/scripts/ozan_fake_uuid.js
 
 [MITM]
 hostname = %APPEND% op-prod-tr.ozan.com, secure.ozansuperapp.com

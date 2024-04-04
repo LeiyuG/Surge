@@ -1,8 +1,23 @@
 # HTX
-DOMAIN,www.huobi.com
-DOMAIN,www.hbabit.com
+DOMAIN-SUFFIX,htx.com
+DOMAIN-SUFFIX,hbabit.com
 DOMAIN-SUFFIX,hbfile.net
 DOMAIN-SUFFIX,huobi.com
-DOMAIN-SUFFIX,htx.com
+DOMAIN-SUFFIX,huobi.me
+DOMAIN-SUFFIX,huobi.pro
+DOMAIN-SUFFIX,huobi.sc
+DOMAIN-SUFFIX,huobiasia.vip
+DOMAIN-SUFFIX,huobigroup.com
+DOMAIN-SUFFIX,huobitoken.com
+DOMAIN-SUFFIX,heco-scan.com
+DOMAIN-SUFFIX,hecoview.com
+DOMAIN-SUFFIX,hbfile.net
+DOMAIN-SUFFIX,huobi.br.com
+DOMAIN-SUFFIX,bitderiv.com
+DOMAIN-SUFFIX,hecochain.com
+DOMAIN-SUFFIX,huobi.ws
+DOMAIN-SUFFIX,huobi.ug
+DOMAIN-SUFFIX,huobi.co.ma
+DOMAIN-SUFFIX,huobi.br.com
 DOMAIN-KEYWORD,huobi
 DOMAIN-KEYWORD,hbfile

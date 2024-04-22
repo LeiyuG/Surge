@@ -2,3 +2,52 @@
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,trading212.com
 DOMAIN-KEYWORD,trading212
+# ipcheck
+DOMAIN,ptest-7.ipcheck.ing
+# kroo
+DOMAIN-SUFFIX,kroo.com
+# chase 
+DOMAIN-SUFFIX,chase.co.uk
+# capitalone
+DOMAIN-SUFFIX,capitalone.co.uk
+# babb
+DOMAIN-SUFFIX,getbabb.com
+# zilch
+DOMAIN-SUFFIX,zilch.com
+DOMAIN-SUFFIX,payzilch.com
+# tsb
+DOMAIN-SUFFIX,tsb.co.uk
+# Deutsche Bank
+DOMAIN-SUFFIX,db.com
+# citibank
+DOMAIN-SUFFIX,citibank.co.uk
+# cashplus
+DOMAIN-SUFFIX,cashplus.com
+# hyperjar
+DOMAIN-SUFFIX,hyperjar.com
+# equifax
+DOMAIN-SUFFIX,equifax.co.uk
+# clearscore
+DOMAIN-SUFFIX,clearscore.com
+# monzo
+DOMAIN-SUFFIX,monzo.com
+DOMAIN-SUFFIX,monzo-alt.net
+# ee
+DOMAIN-SUFFIX,ee.co.uk
+# vodafone
+DOMAIN-SUFFIX,vodafone.co.uk
+# sendwave
+DOMAIN-SUFFIX,sendwave.com
+# nala
+DOMAIN-SUFFIX,nala.ninja
+DOMAIN-SUFFIX,nala-api.com
+DOMAIN-SUFFIX,nala.com
+# worldremit
+DOMAIN-SUFFIX,worldremit.com
+# paysend
+DOMAIN-SUFFIX,paysend.io
+DOMAIN-SUFFIX,paysend.com
+# halifax
+DOMAIN-SUFFIX,halifax-online.co.uk
+# uphold
+DOMAIN-SUFFIX,uphold.com

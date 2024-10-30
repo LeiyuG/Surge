@@ -1,7 +1,6 @@
-#HKbank_surge.list
-#update:2024.3.23
+# HK bank
 
-#众安银行
+# 众安银行
 DOMAIN,bank.za.group
 DOMAIN,cdn.zaticdn.com
 DOMAIN,alicdn.zaticdn.com
@@ -12,16 +11,16 @@ DOMAIN-SUFFIX,za.group
 DOMAIN-SUFFIX,zaticdn.com
 DOMAIN-SUFFIX,zajourney.com
 
-#理慧银行
+# 理慧银行
 DOMAIN,mcxymt1vz-smy-nsfkm9-07xj6-8.device.marketingcloudapis.com
 DOMAIN-SUFFIX,livibank.com
 DOMAIN-KEYWORD,livibank
 
-#中银（香港）
+# 中银（香港）
 DOMAIN-SUFFIX,bochk.com
 DOMAIN-SUFFIX,bochkonline.com
 
-#滙丰香港
+# 滙丰香港
 DOMAIN,lptag.liveperson.net
 DOMAIN,collect-ap-northeast-1.tealiumiq.com
 DOMAIN,visitor-service-ap-northeast-1.tealiumiq.com
@@ -35,53 +34,55 @@ DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,tealiumiq.com
 DOMAIN-KEYWORD,hsbc
 
-#恒生香港
+# 恒生香港
 DOMAIN-SUFFIX,hangseng.com
 DOMAIN-KEYWORD,hangseng
 USER-AGENT,hangseng*
 
-#花旗香港
+# 花旗香港
 DOMAIN-SUFFIX,citibank.com.hk
 
-#HKMU
+# HKMU
 DOMAIN-SUFFIX,hkmu.edu.hk
 DOMAIN-KEYWORD,hkmu
 USER-AGENT,hkmu*
 
-#盈透证券
+# 盈透证券
 DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-KEYWORD,interactivebrokers
 USER-AGENT,interactivebrokers*
 
-#天星银行
+# 天星银行
 DOMAIN-SUFFIX,airstarbank.com
 DOMAIN-KEYWORD,airstarbank
 USER-AGENT,airstar*
 
-#交银香港
+# 交银香港
 DOMAIN-SUFFIX,hk.bankcomm.com
 
-#富邦香港
+# 富邦香港
 DOMAIN-SUFFIX,fusionbank.com
 
-#MOX香港
+# MOX香港
 DOMAIN-SUFFIX,prod-mox.com
 DOMAIN-SUFFIX,mox.com
 DOMAIN-KEYWORD,mox
 USER-AGENT,mox*
 
-#Tap N Go
+# Tap N Go
 DOMAIN-SUFFIX,tapngo.com.hk
 DOMAIN-KEYWORD,tapngo
 USER-AGENT,tapngo*
 
-#渣打银行
+# 渣打银行
 DOMAIN-SUFFIX,sc.com
 DOMAIN-KEYWORD,standchartbank
 USER-AGENT,standchart*
 
-#信银国际
+# 信银国际
 DOMAIN-SUFFIX,cncbinternational.com
 DOMAIN-KEYWORD,cncbinternational
 USER-AGENT,cncbinternational*
 
+# 全球付
+DOMAIN-SUFFIX,globalcash.hk

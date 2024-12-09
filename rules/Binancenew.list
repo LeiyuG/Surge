@@ -37,6 +37,7 @@ DOMAIN,www.yingwangtech.club
 DOMAIN,www.yingwangtech.cc
 DOMAIN,domain-config-1306379396.file.myqcloud.com
 DOMAIN,static-file-1306379396.file.myqcloud.com
+DOMAIN,public-1306379396.file.myqcloud.com
 
 DOMAIN-SUFFIX,appsflayer.com
 DOMAIN-SUFFIX,binance.cc
@@ -92,3 +93,5 @@ IP-CIDR,47.107.32.31/32
 IP-CIDR,120.79.3.17/32
 IP-CIDR,47.107.82.99/32
 IP-CIDR,120.76.205.62/32
+IP-CIDR,120.24.233.110/32
+IP-CIDR,120.78.229.149/32

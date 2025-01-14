@@ -79,6 +79,9 @@ USER-AGENT,paytr*
 PROCESS-NAME,paytr
 DOMAIN,va.tawk.to
 
+# Sipay
+DOMAIN-SUFFIX,walletgate.io
+
 # Other
 DOMAIN,*.com.tr
 DOMAIN,www.paytr.com

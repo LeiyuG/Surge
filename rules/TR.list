@@ -1,11 +1,6 @@
 # Ozan
-DOMAIN,op-prod-tr.ozan.com
 DOMAIN-SUFFIX,ozan.com
-USER-AGENT,ozan
-USER-AGENT,ozan*
-USER-AGENT,*ozan
-PROCESS-NAME,ozan
-DOMAIN-SUFFIX,ozan.com
+DOMAIN-KEYWORD,ozan
 
 # Papara
 DOMAIN-SUFFIX,papara.com
@@ -79,8 +74,13 @@ USER-AGENT,paytr*
 PROCESS-NAME,paytr
 DOMAIN,va.tawk.to
 
+# ininal
+DOMAIN-SUFFIX,ininal.com
+DOMAIN-KEYWORD,ininal
+
 # Sipay
 DOMAIN-SUFFIX,walletgate.io
+DOMAIN-KEYWORD,sipay
 
 # Other
 DOMAIN,*.com.tr

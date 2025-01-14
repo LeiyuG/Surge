@@ -16,16 +16,8 @@ DOMAIN,node2.oyunfor.com
 DOMAIN,vpos3.isbank.com.tr
 DOMAIN,spos.isbank.com.tr
 DOMAIN-SUFFIX,isbank.com.tr
-USER-AGENT,*oyunfor*
-USER-AGENT,*oyunfor
-USER-AGENT,oyunfor*
-PROCESS-NAME,oyunfor
 
 # EPIN
-USER-AGENT,*epin*
-USER-AGENT,*epin
-USER-AGENT,epin*
-PROCESS-NAME,epin
 DOMAIN,epin-cdn.s3.eu-central-1.amazonaws.com
 DOMAIN,epin-static.ams3.digitaloceanspaces.com
 DOMAIN,inter-vpos.com.tr
@@ -46,14 +38,6 @@ DOMAIN-KEYWORD,iyzipay
 DOMAIN-SUFFIX,iyzipay.com
 DOMAIN-KEYWORD,iyzico
 DOMAIN-SUFFIX,iyzico.com
-USER-AGENT,*iyzico*
-USER-AGENT,*iyzico
-USER-AGENT,iyzico*
-PROCESS-NAME,iyzico
-USER-AGENT,*iyzipay*
-USER-AGENT,*iyzipay
-USER-AGENT,iyzipay*
-PROCESS-NAME,iyzipay
 
 # FastPay
 USER-AGENT,*fastpay*

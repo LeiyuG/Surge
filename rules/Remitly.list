@@ -1,0 +1,15 @@
+# REMITLY
+DOMAIN,www.remitly.com
+DOMAIN,passbook-api.remitly.io
+DOMAIN,help.passbook.app
+DOMAIN,analytics.plaid.com
+DOMAIN,production.plaid.com
+DOMAIN,secure.plaid.com
+DOMAIN,cdn.plaid.com
+DOMAIN,production.plaid.com
+DOMAIN,production.plaid.com
+DOMAIN-SUFFIX,remitly.com
+DOMAIN-SUFFIX,remitly.io
+DOMAIN-SUFFIX,passbook.app
+DOMAIN-SUFFIX,plaid.com
+DOMAIN-SUFFIX,salesforceliveagent.com

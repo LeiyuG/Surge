@@ -4,6 +4,7 @@
 DOMAIN,apibox.alat.ng
 DOMAIN,abujaralatsignalr.azurewebsites.net
 DOMAIN-SUFFIX,alat.ng
+DOMAIN-SUFFIX,altbank.ng
 DOMAIN-KEYWORD,alat
 
 # Access
@@ -11,7 +12,7 @@ DOMAIN-SUFFIX,accessbankplc.com
 DOMAIN-KEYWORD,accessbankplc
 
 # BlinkCash
-DOMAIN-SUFFIX,blinkcash.ng
+DOMAIN-SUFFIX,blinkcash.no
 
 # Chipper Cash
 DOMAIN,compliance.chippercash.com
@@ -34,6 +35,9 @@ DOMAIN,www.cashex.app
 DOMAIN,cashex-gateway-34bf7qxe.ue.gateway.dev
 DOMAIN-SUFFIX,cashex.app
 DOMAIN-KEYWORD,cashex
+
+# Cardtonic
+DOMAIN-SUFFIX,cardtonic.com
 
 # GT
 DOMAIN-SUFFIX,gtbank.com
@@ -101,8 +105,3 @@ DOMAIN-SUFFIX,sparkleapp.in
 DOMAIN-SUFFIX,titantrustbank.com
 DOMAIN-KEYWORD,titantrustbank
 
-# Altbank
-DOMAIN-SUFFIX,altbank.ng
-
-# Cardtonic
-DOMAIN-SUFFIX,cardtonic.com

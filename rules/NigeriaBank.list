@@ -61,6 +61,10 @@ DOMAIN-KEYWORD,kudabank
 DOMAIN-SUFFIX,lomabank.com
 DOMAIN-KEYWORD,lomabank
 
+# Moniepoint
+DOMAIN-SUFFIX,mab.console.teamapt.com
+DOMAIN-SUFFIX,moniepoint.com
+
 # NALA
 DOMAIN-SUFFIX,nala.ninja
 DOMAIN-SUFFIX,nala-api.com

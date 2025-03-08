@@ -87,6 +87,9 @@ DOMAIN-KEYWORD,okhi
 DOMAIN-KEYWORD,pocketapp
 DOMAIN-KEYWORD,polarisbanklimited
 
+# Remitano
+DOMAIN-SUFFIX,remitano.com
+
 # Sterling
 DOMAIN-SUFFIX,sterling.ng
 DOMAIN-KEYWORD,sterling

@@ -14,6 +14,10 @@ DOMAIN-KEYWORD,accessbankplc
 # BlinkCash
 DOMAIN-SUFFIX,blinkcash.no
 
+# Busha
+DOMAIN-SUFFIX,busha.team
+DOMAIN-KEYWORD,busha
+
 # Chipper Cash
 DOMAIN,compliance.chippercash.com
 DOMAIN,auth.chippercash.com

@@ -24,6 +24,10 @@ DOMAIN,inter-vpos.com.tr
 DOMAIN,epin-cdn.*
 DOMAIN,epin-static.*
 
+# Turkcell
+DOMAIN-SUFFIX,turkcell.com.tr:443
+DOMAIN-SUFFIX,eturkcell.netmera.com
+
 # Turgame
 USER-AGENT,*turgame*
 USER-AGENT,*turgame

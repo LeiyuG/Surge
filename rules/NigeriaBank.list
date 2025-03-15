@@ -94,6 +94,10 @@ DOMAIN-KEYWORD,okhi
 DOMAIN-KEYWORD,pocketapp
 DOMAIN-KEYWORD,polarisbanklimited
 
+# Quidax
+DOMAIN-SUFFIX,quidax.io
+DOMAIN-KEYWORD,quidax
+
 # Roqqu
 DOMAIN-SUFFIX,roqqupay.com
 

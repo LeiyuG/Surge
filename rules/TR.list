@@ -73,6 +73,10 @@ DOMAIN-KEYWORD,ininal
 DOMAIN-SUFFIX,walletgate.io
 DOMAIN-KEYWORD,sipay
 
+# Zeepay
+DOMAIN-SUFFIX,zeepay.com.tr
+DOMAIN-KEYWORD,zeepay
+
 # Other
 DOMAIN,*.com.tr
 DOMAIN,www.paytr.com

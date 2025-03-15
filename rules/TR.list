@@ -55,6 +55,9 @@ USER-AGENT,*gpay
 USER-AGENT,gpay*
 PROCESS-NAME,gpay
 
+# Popy para
+DOMAIN-SUFFIX,popypara.com
+
 # PayTR
 USER-AGENT,*paytr*
 USER-AGENT,*paytr

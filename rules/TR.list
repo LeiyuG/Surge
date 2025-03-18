@@ -10,6 +10,10 @@ DOMAIN-KEYWORD,papara
 DOMAIN-SUFFIX,fups.com
 DOMAIN-KEYWORD,fups
 
+# Moneytolia
+DOMAIN-SUFFIX,moneytolia.com
+DOMAIN-KEYWORD,moneytolia
+
 # Oyunfor
 DOMAIN,node2.oyunfor.com
 DOMAIN,node2.oyunfor.com
@@ -47,27 +51,8 @@ DOMAIN-SUFFIX,iyzipay.com
 DOMAIN-KEYWORD,iyzico
 DOMAIN-SUFFIX,iyzico.com
 
-# FastPay
-USER-AGENT,*fastpay*
-USER-AGENT,*fastpay
-USER-AGENT,fastpay*
-PROCESS-NAME,fastpay
-
-# GPay
-USER-AGENT,*gpay*
-USER-AGENT,*gpay
-USER-AGENT,gpay*
-PROCESS-NAME,gpay
-
-# Popy para
+# Popypara
 DOMAIN-SUFFIX,popypara.com
-
-# PayTR
-USER-AGENT,*paytr*
-USER-AGENT,*paytr
-USER-AGENT,paytr*
-PROCESS-NAME,paytr
-DOMAIN,va.tawk.to
 
 # ininal
 DOMAIN-SUFFIX,ininal.com

@@ -24,6 +24,10 @@ DOMAIN,inter-vpos.com.tr
 DOMAIN,epin-cdn.*
 DOMAIN,epin-static.*
 
+# Turan
+DOMAIN-SUFFIX,turan.app
+DOMAIN-KEYWORD,turan
+
 # Turkcell
 DOMAIN-SUFFIX,turkcell.com.tr:443
 DOMAIN-SUFFIX,eturkcell.netmera.com

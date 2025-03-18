@@ -73,6 +73,9 @@ DOMAIN-KEYWORD,ininal
 DOMAIN-SUFFIX,walletgate.io
 DOMAIN-KEYWORD,sipay
 
+# Uption
+DOMAIN-SUFFIX,netmera.com
+
 # Zeepay
 DOMAIN-SUFFIX,zeepay.com.tr
 DOMAIN-KEYWORD,zeepay

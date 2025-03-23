@@ -40,6 +40,9 @@ DOMAIN-SUFFIX,eturkcell.netmera.com
 # Turgame
 DOMAIN-SUFFIX,turgame.com
 
+# Tutarla
+DOMAIN-SUFFIX,tutarla.com
+
 # iyzico and related services
 DOMAIN,static.iyzipay.com
 DOMAIN,countly.iyzico.com

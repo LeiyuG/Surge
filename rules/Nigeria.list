@@ -43,6 +43,10 @@ DOMAIN-KEYWORD,cashex
 # Cardtonic
 DOMAIN-SUFFIX,cardtonic.com
 
+# Flutterwave
+DOMAIN-SUFFIX,flutterwave.com
+DOMAIN-KEYWORD,flutterwave
+
 # GT
 DOMAIN-SUFFIX,gtbank.com
 DOMAIN-KEYWORD,gtbank

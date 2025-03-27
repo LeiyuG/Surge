@@ -1,4 +1,5 @@
 # Binance
+
 DOMAIN,www.binance.com
 DOMAIN,www.binance.click
 DOMAIN,api.binance.com
@@ -82,8 +83,10 @@ DOMAIN-SUFFIX,yingwangtech.mobi
 DOMAIN-SUFFIX,yingwangtech.club
 DOMAIN-SUFFIX,yingwangtech.cc
 DOMAIN-SUFFIX,mokexapp.net
+DOMAIN-SUFFIX,mokexapp.io
 
 DOMAIN-KEYWORD,binance
+DOMAIN-KEYWORD,mokexapp
 
 IP-CIDR,47.107.98.27/32
 IP-CIDR,47.107.72.24/32

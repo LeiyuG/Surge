@@ -1,4 +1,5 @@
 # Blizzard
+
 DOMAIN,blizzard-api.arkoselabs.com
 DOMAIN,blz-contentstack-assets.akamaized.net
 DOMAIN,blz-contentstack-images.akamaized.net
@@ -12,3 +13,4 @@ DOMAIN,sdk.iad-03.braze.com
 DOMAIN,d1yyu14twbo3rh.cloudfront.net
 DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,baseui.akamaized.net

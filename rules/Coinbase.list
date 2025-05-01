@@ -1,4 +1,6 @@
 # Coinbase
+DOMAIN,app-analytics-services.com
 DOMAIN-SUFFIX,coinbase.com
 DOMAIN-SUFFIX,coinbasecdn.net
+DOMAIN-SUFFIX,sardine.ai
 DOMAIN-KEYWORD,coinbase

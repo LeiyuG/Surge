@@ -124,6 +124,10 @@ DOMAIN,apigateway.sparkleapp.in
 DOMAIN-SUFFIX,sparkleapp.com
 DOMAIN-SUFFIX,sparkleapp.in
 
+# Spenda
+DOMAIN-SUFFIX,spenda.africa
+DOMAIN-KEYWORD,spenda
+
 # Titan
 DOMAIN-SUFFIX,titantrustbank.com
 DOMAIN-KEYWORD,titantrustbank

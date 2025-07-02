@@ -90,6 +90,3 @@ USER-AGENT,cncbinternational*
 # 汇立银行
 DOMAIN-SUFFIX,welab.bank
 DOMAIN-KEYWORD,welab
-
-# 全球付
-DOMAIN-SUFFIX,globalcash.hk

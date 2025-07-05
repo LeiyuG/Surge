@@ -1,4 +1,6 @@
 # 盈透证券
+DOMAIN-SUFFIX,ibllc.com
+DOMAIN-SUFFIX,interactivebrokers.com.hk
 DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-KEYWORD,interactivebrokers
 USER-AGENT,interactivebrokers*

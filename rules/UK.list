@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,cashplus.com
 
 # hyperjar
 DOMAIN-SUFFIX,hyperjar.com
+DOMAIN-SUFFIX,hyperjardev.com
 
 # equifax
 DOMAIN-SUFFIX,equifax.co.uk

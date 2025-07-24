@@ -1,5 +1,7 @@
 # Curve
 
+DOMAIN,v2f4qe8g9b.execute-api.eu-west-2.amazonaws.com
+DOMAIN,sdk.fra-01.braze.eu
 DOMAIN-SUFFIX,curve.app
 DOMAIN-SUFFIX,curve.com
 DOMAIN-SUFFIX,imaginecurve.com

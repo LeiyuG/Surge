@@ -87,6 +87,10 @@ DOMAIN-SUFFIX,nala-api.com
 # Opay
 DOMAIN-SUFFIX,opayweb.com
 
+# One Bank
+DOMAIN-SUFFIX,netcoresmartech.com
+DOMAIN-SUFFIX,onesignal.com
+
 # PocketApp
 DOMAIN,api.okhi.io
 DOMAIN,pocketapp.com

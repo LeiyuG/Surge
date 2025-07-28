@@ -1,7 +1,10 @@
 # Maya
 
-DOMAIN-SUFFIX,cryptosrvc.com,extended-matching
-DOMAIN-KEYWORD,paymaya,extended-matching
-DOMAIN-SUFFIX,paymaya.com,extended-matching
-DOMAIN-KEYWORD,mayabank,extended-matching
-DOMAIN-SUFFIX,mayabank.ph,extended-matching
+DOMAIN,940c5ecf154a2dd669454fc022ed18283a8196d9.csftr.com
+DOMAIN-SUFFIX,cryptosrvc.com
+DOMAIN-SUFFIX,maya.ph
+DOMAIN-SUFFIX,paymaya.com
+DOMAIN-SUFFIX,mayabank.ph
+DOMAIN-KEYWORD,paymaya
+DOMAIN-KEYWORD,mayabank
+

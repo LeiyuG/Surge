@@ -1,0 +1,7 @@
+# Maya
+
+DOMAIN-SUFFIX,cryptosrvc.com,extended-matching
+DOMAIN-KEYWORD,paymaya,extended-matching
+DOMAIN-SUFFIX,paymaya.com,extended-matching
+DOMAIN-KEYWORD,mayabank,extended-matching
+DOMAIN-SUFFIX,mayabank.ph,extended-matching

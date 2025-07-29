@@ -1,5 +1,6 @@
 # Nexo
-USER-AGENT,*nexo*
-USER-AGENT,nexo*
+
 DOMAIN-SUFFIX,nexo.com
 DOMAIN-KEYWORD,nexo
+USER-AGENT,*nexo*
+USER-AGENT,nexo*

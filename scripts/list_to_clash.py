@@ -13,15 +13,15 @@ def convert_file(input_path, output_path):
     for line in lines:
         stripped = line.strip()
         if not stripped:
-            output_lines.append("")  # 空行保留
+            output_lines.append("")  # 保留空行
         elif stripped.startswith("#"):
-            output_lines.append(stripped)  # 注释保留
+            output_lines.append(stripped)  # 保留注释
         elif "," in stripped:
             parts = stripped.split(",", 1)
             rule_type = parts[0].strip().upper()
             value = parts[1].strip()
             if rule_type in ['DOMAIN', 'DOMAIN-SUFFIX', 'DOMAIN-KEYWORD']:
-                output_lines.append(f"- {rule_type},{value},Proxy")
+                output_lines.append(f"- {rule_type},{value}")  # ✅ 不加 Proxy
             else:
                 print(f"⚠️ Unsupported rule type in {input_path}: {rule_type}")
         else:
@@ -33,15 +33,13 @@ def convert_file(input_path, output_path):
             if line.startswith("-") or line.startswith("#"):
                 f.write(f"  {line}\n")
             elif line.strip() == "":
-                f.write("\n")  # 保留原始空行
+                f.write("\n")
             else:
                 f.write(f"  # {line}  # preserved unknown line\n")
 
     print(f"✅ Converted: {input_path} → {output_path}")
 
-# 批量处理
+# 批量转换所有 .list 文件
 for filename in os.listdir(RULE_DIR):
     if filename.endswith(".list"):
-        input_path = os.path.join(RULE_DIR, filename)
-        output_path = os.path.join(OUTPUT_DIR, filename.replace(".list", ".yaml"))
-        convert_file(input_path, output_path)
+        input_path = os.path.join_

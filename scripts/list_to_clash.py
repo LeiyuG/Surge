@@ -43,4 +43,6 @@ def convert_file(input_path, output_path):
 for filename in os.listdir(RULE_DIR):
     if filename.endswith(".list"):
         input_path = os.path.join(RULE_DIR, filename)
-        output_path = os.path.join(OUTPUT_DIR, filenam
+        output_path = os.path.join(OUTPUT_DIR, filename.replace(".list", ".yaml"))
+        convert_file(input_path, output_path)
+

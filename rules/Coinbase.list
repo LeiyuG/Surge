@@ -1,4 +1,5 @@
 # Coinbase
+
 DOMAIN,asset-metadata-service-production.s3.amazonaws.com
 DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,coinbase.com

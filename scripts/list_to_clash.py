@@ -21,11 +21,11 @@ def convert_file(input_path, output_path):
             rule_type = parts[0].strip().upper()
             value = parts[1].strip()
             if rule_type in ['DOMAIN', 'DOMAIN-SUFFIX', 'DOMAIN-KEYWORD']:
-                output_lines.append(f"- {rule_type},{value}")  # ✅ 不加 Proxy
+                output_lines.append(f"- {rule_type},{value}")  # ❌ 不加 Proxy
             else:
-                print(f"⚠️ Unsupported rule type in {input_path}: {rule_type}")
+                print(f"⚠️ 跳过不支持的规则类型: {rule_type} in {input_path}")
         else:
-            print(f"⚠️ Skipping invalid line: {stripped}")
+            print(f"⚠️ 跳过格式错误的行: {stripped}")
 
     with open(output_path, "w", encoding="utf-8") as f:
         f.write("payload:\n")
@@ -33,7 +33,7 @@ def convert_file(input_path, output_path):
             if line.startswith("-") or line.startswith("#"):
                 f.write(f"  {line}\n")
             elif line.strip() == "":
-                f.write("\n")
+                f.write("\n")  # 保留原始空行
             else:
                 f.write(f"  # {line}  # preserved unknown line\n")
 
@@ -42,4 +42,5 @@ def convert_file(input_path, output_path):
 # 批量转换所有 .list 文件
 for filename in os.listdir(RULE_DIR):
     if filename.endswith(".list"):
-        input_path = os.path.join_
+        input_path = os.path.join(RULE_DIR, filename)
+        output_path = os.path.join(OUTPUT_DIR, filenam

@@ -1,5 +1,4 @@
 import os
-import yaml
 
 RULE_DIR = "rules"
 OUTPUT_DIR = "clash"
@@ -10,35 +9,39 @@ def convert_file(input_path, output_path):
     with open(input_path, "r", encoding="utf-8") as f:
         lines = f.readlines()
 
-    payload = []
-    comment = ""
+    output_lines = []
     for line in lines:
-        line = line.strip()
-        if not line:
-            continue
-        if line.startswith("#") and not comment:
-            comment = line  # 只保留第一行注释
-        elif "," in line:
-            parts = line.split(",", 1)
+        stripped = line.strip()
+        if not stripped:
+            output_lines.append("")  # 空行保留
+        elif stripped.startswith("#"):
+            output_lines.append(stripped)  # 注释保留
+        elif "," in stripped:
+            parts = stripped.split(",", 1)
             rule_type = parts[0].strip().upper()
             value = parts[1].strip()
             if rule_type in ['DOMAIN', 'DOMAIN-SUFFIX', 'DOMAIN-KEYWORD']:
-                payload.append(f"{rule_type},{value},Proxy")
-
-    yaml_data = {
-        "payload": payload
-    }
+                output_lines.append(f"- {rule_type},{value},Proxy")
+            else:
+                print(f"⚠️ Unsupported rule type in {input_path}: {rule_type}")
+        else:
+            print(f"⚠️ Skipping invalid line: {stripped}")
 
     with open(output_path, "w", encoding="utf-8") as f:
-        if comment:
-            f.write(comment + "\n")
-        yaml.dump(yaml_data, f, allow_unicode=True, sort_keys=False)
+        f.write("payload:\n")
+        for line in output_lines:
+            if line.startswith("-") or line.startswith("#"):
+                f.write(f"  {line}\n")
+            elif line.strip() == "":
+                f.write("\n")  # 保留原始空行
+            else:
+                f.write(f"  # {line}  # preserved unknown line\n")
 
-    print(f"✅ {input_path} → {output_path}")
+    print(f"✅ Converted: {input_path} → {output_path}")
 
-# 批量转换
-for file in os.listdir(RULE_DIR):
-    if file.endswith(".list"):
-        input_file = os.path.join(RULE_DIR, file)
-        output_file = os.path.join(OUTPUT_DIR, file.replace(".list", ".yaml"))
-        convert_file(input_file, output_file)
+# 批量处理
+for filename in os.listdir(RULE_DIR):
+    if filename.endswith(".list"):
+        input_path = os.path.join(RULE_DIR, filename)
+        output_path = os.path.join(OUTPUT_DIR, filename.replace(".list", ".yaml"))
+        convert_file(input_path, output_path)

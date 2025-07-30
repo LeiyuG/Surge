@@ -23,7 +23,6 @@ DOMAIN,compliance.chippercash.com
 DOMAIN,auth.chippercash.com
 DOMAIN,api.chippercash.com
 DOMAIN-SUFFIX,chippercash.com
-DOMAIN-SUFFIX,mobile-messenger.intercom.com
 DOMAIN-KEYWORD,chippercash
 
 # Cabon

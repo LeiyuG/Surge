@@ -1,3 +1,5 @@
+# UK Service
+
 # Trading212
 DOMAIN,yrkm8m-launches.appsflyersdk.com
 DOMAIN,trading212equities.s3.eu-central-1.amazonaws.com
@@ -7,61 +9,65 @@ DOMAIN-KEYWORD,trading212
 # ipcheck
 DOMAIN,ptest-7.ipcheck.ing
 
-# kroo
+# Kroo
 DOMAIN-SUFFIX,kroo.com
 
-# chase 
+# Chaes 
 DOMAIN-SUFFIX,chase.co.uk
 
-# capitalone
+# Capitalone
 DOMAIN-SUFFIX,capitalone.co.uk
 
-# babb
+# Babb
 DOMAIN-SUFFIX,getbabb.com
 
-# zilch
+# Zilch
 DOMAIN-SUFFIX,zilch.com
 DOMAIN-SUFFIX,payzilch.com
 
-# tsb
+# Tsb
 DOMAIN-SUFFIX,tsb.co.uk
 
 # Deutsche Bank
 DOMAIN-SUFFIX,db.com
 
-# citibank
+# Citibank
 DOMAIN-SUFFIX,citibank.co.uk
 
-# cashplus
+# Cashplus
 DOMAIN-SUFFIX,cashplus.com
 
-# hyperjar
+# Hyperjar
 DOMAIN-SUFFIX,hyperjar.com
 DOMAIN-SUFFIX,hyperjardev.com
 
-# equifax
+# Equifax
 DOMAIN-SUFFIX,equifax.co.uk
 
-# clearscore
+# Clearscore
 DOMAIN-SUFFIX,clearscore.com
 
-# monzo
+# Monzo
 DOMAIN-SUFFIX,monzo.com
 DOMAIN-SUFFIX,monzo-alt.net
 
 # ee
 DOMAIN-SUFFIX,ee.co.uk
 
-# vodafone
+# Vodafone
 DOMAIN-SUFFIX,vodafone.co.uk
 
-# nala
+# Nala
 DOMAIN-SUFFIX,nala.ninja
 DOMAIN-SUFFIX,nala-api.com
 DOMAIN-SUFFIX,nala.com
 
-# worldremit
+# Worldremit
 DOMAIN-SUFFIX,worldremit.com
 
-# halifax
+# Halifax
 DOMAIN-SUFFIX,halifax-online.co.uk
+
+# Sumup pay
+DOMAIN-SUFFIX,sumup.io
+DOMAIN-KEYWORD,sumup

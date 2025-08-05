@@ -38,7 +38,6 @@ DOMAIN-KEYWORD,hsbc
 # 恒生香港
 DOMAIN-SUFFIX,hangseng.com
 DOMAIN-KEYWORD,hangseng
-USER-AGENT,hangseng*
 
 # 花旗香港
 DOMAIN-SUFFIX,citibank.com.hk
@@ -46,12 +45,10 @@ DOMAIN-SUFFIX,citibank.com.hk
 # HKMU
 DOMAIN-SUFFIX,hkmu.edu.hk
 DOMAIN-KEYWORD,hkmu
-USER-AGENT,hkmu*
 
 # 天星银行
 DOMAIN-SUFFIX,airstarbank.com
 DOMAIN-KEYWORD,airstarbank
-USER-AGENT,airstar*
 
 # 交银香港
 DOMAIN-SUFFIX,hk.bankcomm.com
@@ -63,23 +60,26 @@ DOMAIN-SUFFIX,fusionbank.com
 DOMAIN-SUFFIX,prod-mox.com
 DOMAIN-SUFFIX,mox.com
 DOMAIN-KEYWORD,mox
-USER-AGENT,mox*
 
 # Tap N Go
 DOMAIN-SUFFIX,tapngo.com.hk
 DOMAIN-KEYWORD,tapngo
-USER-AGENT,tapngo*
 
 # 渣打银行
 DOMAIN-SUFFIX,sc.com
 DOMAIN-KEYWORD,standchartbank
-USER-AGENT,standchart*
 
 # 信银国际
 DOMAIN-SUFFIX,cncbinternational.com
 DOMAIN-KEYWORD,cncbinternational
-USER-AGENT,cncbinternational*
 
 # 汇立银行
 DOMAIN-SUFFIX,welab.bank
 DOMAIN-KEYWORD,welab
+
+# Futu富途
+DOMAIN,v1d3dx-skadsdkless.appsflyersdk.com
+DOMAIN-SUFFIX,futu5.com
+DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,futuhn.com
+DOMAIN-KEYWORD,futu

@@ -1,3 +1,5 @@
+# Turkey Service
+
 # Ozan
 DOMAIN-SUFFIX,ozan.com
 DOMAIN-KEYWORD,ozan
@@ -104,6 +106,12 @@ DOMAIN-SUFFIX,gpay.com.tr
 # Turgame and related services
 DOMAIN,turgame.com
 DOMAIN-SUFFIX,turgame.com
+
+# Epic
+DOMAIN-SUFFIX,razer.com
+
+# Gaijin
+DOMAIN-SUFFIX,gaijin.net
 
 # Other specific domains
 DOMAIN,*.com.tr

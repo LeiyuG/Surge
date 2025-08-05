@@ -1,0 +1,73 @@
+# EEA Service
+
+# BABB
+DOMAIN,app-babb-api-prod-uks.azurewebsites.net
+DOMAIN-KEYWORD,babb
+
+# Ether.fi
+DOMAIN-SUFFIX,ether.fi
+DOMAIN-SUFFIX,cardinaltrusted.com
+DOMAIN-SUFFIX,cardinalcommerce.com
+
+# Fiat24
+DOMAIN,fiat24.com
+
+# Instarem
+DOMAIN-SUFFIX,instarem.com
+DOMAIN-KEYWORD,instarem
+
+# Korona
+DOMAIN-SUFFIX,koronapay.com
+
+# Moonpay
+DOMAIN-SUFFIX,moonpay.com
+DOMAIN-SUFFIX,moonpaycloud.com
+
+# Moneybase
+DOMAIN-SUFFIX,moneybase.com
+
+# Monerium
+DOMAIN-SUFFIX,walletconnect.com
+DOMAIN-SUFFIX,monerium.app
+DOMAIN-SUFFIX,monerium.com
+
+# Paysend
+DOMAIN,qz2jk2-skadsdkless.appsflyersdk.com
+DOMAIN-SUFFIX,paysend.com
+DOMAIN-SUFFIX,paysend.io
+
+# Sendwave
+DOMAIN-SUFFIX,sendwave.com
+DOMAIN,lwvwkh-launches.appsflyersdk.com
+
+# Silkpay
+DOMAIN-SUFFIX,s1lkpay.com
+
+# Taptap
+DOMAIN-SUFFIX,taptapsend.com
+DOMAIN-KEYWORD,taptapsend
+
+# Transfergo
+DOMAIN,transfergo.zendesk.com
+DOMAIN-SUFFIX,transfergo.com
+DOMAIN-KEYWORD,transfergo
+
+# Tuyo
+DOMAIN-SUFFIX,tuyo.com
+
+# Vancelian
+DOMAIN,cdp-eu.customer.io
+DOMAIN-SUFFIX,akt.io
+DOMAIN-SUFFIX,vancelian.com
+
+# Yallo esim
+DOMAIN-SUFFIX,yallo.ch
+
+# ZEN
+DOMAIN-SUFFIX,zen.com
+DOMAIN-SUFFIX,zencom.zendesk.com
+
+# API
+DOMAIN,api2.branch.io
+DOMAIN-SUFFIX,sardine.ai
+DOMAIN-SUFFIX,amplitude.com

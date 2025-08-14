@@ -1,10 +1,13 @@
 # Maya
 
 DOMAIN,940c5ecf154a2dd669454fc022ed18283a8196d9.csftr.com
-DOMAIN-SUFFIX,cryptosrvc.com
 DOMAIN-SUFFIX,maya.ph
 DOMAIN-SUFFIX,paymaya.com
 DOMAIN-SUFFIX,mayabank.ph
 DOMAIN-KEYWORD,paymaya
 DOMAIN-KEYWORD,mayabank
 
+# 安全检测
+
+DOMAIN-SUFFIX,voyagerapis.com
+DOMAIN-SUFFIX,voyagerinnovation.com

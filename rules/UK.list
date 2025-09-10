@@ -1,10 +1,41 @@
 # UK Service
 
-# Trading212
-DOMAIN,yrkm8m-launches.appsflyersdk.com
-DOMAIN,trading212equities.s3.eu-central-1.amazonaws.com
-DOMAIN-SUFFIX,trading212.com
-DOMAIN-KEYWORD,trading212
+# Babb
+DOMAIN-SUFFIX,getbabb.com
+
+# Blockchain
+DOMAIN-SUFFIX,blockchain.info
+
+# Capitalone
+DOMAIN-SUFFIX,capitalone.co.uk
+
+# Cashplus
+DOMAIN-SUFFIX,cashplus.com
+
+# Chaes 
+DOMAIN-SUFFIX,chase.co.uk
+
+# Clearscore
+DOMAIN-SUFFIX,clearscore.com
+
+# Citibank
+DOMAIN-SUFFIX,citibank.co.uk
+
+# Deutsche Bank
+DOMAIN-SUFFIX,db.com
+
+# ee
+DOMAIN-SUFFIX,ee.co.uk
+
+# Equifax
+DOMAIN-SUFFIX,equifax.co.uk
+
+# Halifax
+DOMAIN-SUFFIX,halifax-online.co.uk
+
+# Hyperjar
+DOMAIN-SUFFIX,hyperjar.com
+DOMAIN-SUFFIX,hyperjardev.com
 
 # ipcheck
 DOMAIN,ptest-7.ipcheck.ing
@@ -12,62 +43,34 @@ DOMAIN,ptest-7.ipcheck.ing
 # Kroo
 DOMAIN-SUFFIX,kroo.com
 
-# Chaes 
-DOMAIN-SUFFIX,chase.co.uk
-
-# Capitalone
-DOMAIN-SUFFIX,capitalone.co.uk
-
-# Babb
-DOMAIN-SUFFIX,getbabb.com
-
-# Zilch
-DOMAIN-SUFFIX,zilch.com
-DOMAIN-SUFFIX,payzilch.com
-
-# Tsb
-DOMAIN-SUFFIX,tsb.co.uk
-
-# Deutsche Bank
-DOMAIN-SUFFIX,db.com
-
-# Citibank
-DOMAIN-SUFFIX,citibank.co.uk
-
-# Cashplus
-DOMAIN-SUFFIX,cashplus.com
-
-# Hyperjar
-DOMAIN-SUFFIX,hyperjar.com
-DOMAIN-SUFFIX,hyperjardev.com
-
-# Equifax
-DOMAIN-SUFFIX,equifax.co.uk
-
-# Clearscore
-DOMAIN-SUFFIX,clearscore.com
-
 # Monzo
 DOMAIN-SUFFIX,monzo.com
 DOMAIN-SUFFIX,monzo-alt.net
-
-# ee
-DOMAIN-SUFFIX,ee.co.uk
-
-# Vodafone
-DOMAIN-SUFFIX,vodafone.co.uk
 
 # Nala
 DOMAIN-SUFFIX,nala.ninja
 DOMAIN-SUFFIX,nala-api.com
 DOMAIN-SUFFIX,nala.com
 
+# Sumup
+DOMAIN-SUFFIX,sumup.io
+DOMAIN-KEYWORD,sumup
+
+# Trading212
+DOMAIN,yrkm8m-launches.appsflyersdk.com
+DOMAIN,trading212equities.s3.eu-central-1.amazonaws.com
+DOMAIN-SUFFIX,trading212.com
+DOMAIN-KEYWORD,trading212
+
+# Tsb
+DOMAIN-SUFFIX,tsb.co.uk
+
+# Vodafone
+DOMAIN-SUFFIX,vodafone.co.uk
+
 # Worldremit
 DOMAIN-SUFFIX,worldremit.com
 
-# Halifax
-DOMAIN-SUFFIX,halifax-online.co.uk
-
-# Sumup pay
-DOMAIN-SUFFIX,sumup.io
-DOMAIN-KEYWORD,sumup
+# Zilch
+DOMAIN-SUFFIX,zilch.com
+DOMAIN-SUFFIX,payzilch.com

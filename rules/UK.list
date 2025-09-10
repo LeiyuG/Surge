@@ -5,6 +5,8 @@ DOMAIN-SUFFIX,getbabb.com
 
 # Blockchain
 DOMAIN-SUFFIX,blockchain.info
+DOMAIN-SUFFIX,blockchain.com
+DOMAIN-KEYWORD,blockchain
 
 # Capitalone
 DOMAIN-SUFFIX,capitalone.co.uk

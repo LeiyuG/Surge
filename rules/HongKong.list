@@ -17,8 +17,10 @@ DOMAIN-SUFFIX,livibank.com
 DOMAIN-KEYWORD,livibank
 
 # 中银（香港）
+DOMAIN-SUFFIX,etnet.com.hk
 DOMAIN-SUFFIX,bochk.com
 DOMAIN-SUFFIX,bochkonline.com
+DOMAIN-KEYWORD,bochk
 
 # 滙丰香港
 DOMAIN,lptag.liveperson.net

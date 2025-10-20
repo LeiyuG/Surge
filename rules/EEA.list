@@ -4,6 +4,11 @@
 DOMAIN,app-babb-api-prod-uks.azurewebsites.net
 DOMAIN-KEYWORD,babb
 
+# Cino
+DOMAIN,api-eu.mixpanel.com
+DOMAIN-SUFFIX,getcino.com
+DOMAIN-KEYWORD,uwthsj
+
 # Ether.fi
 DOMAIN-SUFFIX,ether.fi
 DOMAIN-SUFFIX,cardinaltrusted.com

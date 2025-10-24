@@ -9,6 +9,7 @@ DOMAIN,secure.plaid.com
 DOMAIN,cdn.plaid.com
 DOMAIN,production.plaid.com
 DOMAIN,production.plaid.com
+DOMAIN,d435v9-inapps.appsflyersdk.com
 DOMAIN-SUFFIX,remitly.com
 DOMAIN-SUFFIX,remitly.io
 DOMAIN-SUFFIX,passbook.app

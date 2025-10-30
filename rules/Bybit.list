@@ -1,5 +1,8 @@
 # Bybit
 
+DOMAIN,m3ond3-launches.appsflyersdk.com
+DOMAIN,api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
+DOMAIN,sc-datasink.ffe390afd658c19dcbf707e0597b846d.de
 DOMAIN,relay.walletconnect.com
 DOMAIN-SUFFIX,bybit.biz
 DOMAIN-SUFFIX,bybit.org
@@ -13,6 +16,9 @@ DOMAIN-SUFFIX,bitverse.zone
 DOMAIN-SUFFIX,bybitglobal.com
 DOMAIN-SUFFIX,bybit-global.com
 DOMAIN-SUFFIX,byapps.net
+DOMAIN-SUFFIX,byffbb.com
+DOMAIN-SUFFIX,bycsi.com
 DOMAIN-KEYWORD,bybit
 DOMAIN-KEYWORD,bybitglobal
 DOMAIN-KEYWORD,bybit-global
+

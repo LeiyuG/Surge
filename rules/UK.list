@@ -76,6 +76,9 @@ DOMAIN-SUFFIX,vodafone.co.uk
 DOMAIN-SUFFIX,worldremit.com
 
 # Yonder
+DOMAIN,tcqe0qwu-ios.mobile-messenger.eu.intercom.io
+DOMAIN,o438986.ingest.sentry.io
+DOMAIN,o2129.ingest.sentry.io
 DOMAIN-SUFFIX,yondercard.com
 
 # Zilch

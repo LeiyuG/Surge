@@ -1,9 +1,9 @@
 # Apple Siri / Spotlight / Lookup / Safari / News / 信息 / 音乐
-DOMAIN-SUFFIX,smoot.apple.com
-DOMAIN,guzzoni.apple.com
+DOMAIN-SUFFIX,*.smoot.apple.com
+DOMAIN-SUFFIX,guzzoni.apple.com
 
 # Apple Intelligence Extensions / Private Cloud Compute (PCC)
-DOMAIN-SUFFIX,apple-relay.fastly-edge.co
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com
 DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,cp4.cloudflare.com

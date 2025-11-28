@@ -131,6 +131,9 @@ DOMAIN-SUFFIX,razer.com
 # Gaijin
 DOMAIN-SUFFIX,gaijin.net
 
+# Wist
+DOMAIN-SUFFIX,ist-pay.com
+
 # Other specific domains
 DOMAIN,*.com.tr
 DOMAIN,www.paytr.com

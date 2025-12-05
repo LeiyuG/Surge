@@ -54,6 +54,11 @@ DOMAIN-KEYWORD,jfrp4f
 DOMAIN-SUFFIX,turkcell.com.tr
 DOMAIN-SUFFIX,eturkcell.netmera.com
 
+# Tami
+DOMAIN-SUFFIX,tami.com.tr
+DOMAIN-SUFFIX,garantibbva.com.tr
+DOMAIN-KEYWORD,garantibbva
+
 # Turgame
 DOMAIN-SUFFIX,turgame.com
 

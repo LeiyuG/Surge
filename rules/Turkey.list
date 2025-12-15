@@ -1,22 +1,35 @@
 # Turkey Service
 
-# Ozan
-DOMAIN-SUFFIX,ozan.com
-DOMAIN-KEYWORD,ozan
+# Ahlpay
+DOMAIN,e.clarity.ms
+DOMAIN-SUFFIX,ahlpay.com.tr
 
-# Oyunfor
-DOMAIN-SUFFIX,oyunfor.com
+# Epic
+DOMAIN-SUFFIX,razer.com
 
-# Paycell
-DOMAIN-SUFFIX,paycell.com.tr
+# EPIN services
+DOMAIN-SUFFIX,epin.com.tr
+DOMAIN,www.epin.com.tr
+DOMAIN,epin-cdn.s3.eu-central-1.amazonaws.com
+DOMAIN,epin-static.ams3.digitaloceanspaces.com
+DOMAIN,inter-vpos.com.tr
+DOMAIN-KEYWORD,epin-cdn
+DOMAIN-KEYWORD,epin-static
 
-# Papara
-DOMAIN-SUFFIX,papara.com
-DOMAIN-KEYWORD,papara
+# Fastpay
+DOMAIN,fastpay.com.tr
+DOMAIN-SUFFIX,fastpay.com.tr
 
 # Fups
 DOMAIN-SUFFIX,fups.com
 DOMAIN-KEYWORD,fups
+
+# Gaijin
+DOMAIN-SUFFIX,gaijin.net
+
+# GPay
+DOMAIN,gpay.com.tr
+DOMAIN-SUFFIX,gpay.com.tr
 
 # Hadi
 DOMAIN,app.tr.adjust.com
@@ -29,52 +42,15 @@ DOMAIN-KEYWORD,hadi
 DOMAIN-SUFFIX,hayhaycuzdan.com
 DOMAIN-KEYWORD,hayhay
 
-# Letim
-DOMAIN,letim.birlesikodeme.com
-DOMAIN-KEYWORD,letim
+# ininal
+DOMAIN-SUFFIX,ininal.com
+DOMAIN-KEYWORD,ininal
 
-# Moneytolia
-DOMAIN-SUFFIX,moneytolia.com
-DOMAIN-KEYWORD,moneytolia
-
-# Moka
-DOMAIN-SUFFIX,mokaunited.com
-
-# Mars
-DOMAIN-SUFFIX,marsneo.com
-DOMAIN-KEYWORD,vsynmu
-
-# Oyunfor and related domains
-DOMAIN-SUFFIX,oyunfor.com
-
-# EPIN services
-DOMAIN-SUFFIX,epin.com.tr
-DOMAIN,www.epin.com.tr
-DOMAIN,epin-cdn.s3.eu-central-1.amazonaws.com
-DOMAIN,epin-static.ams3.digitaloceanspaces.com
-DOMAIN,inter-vpos.com.tr
-DOMAIN-KEYWORD,epin-cdn
-DOMAIN-KEYWORD,epin-static
-
-# Turan
-DOMAIN-SUFFIX,turan.app
-DOMAIN-KEYWORD,turan
-DOMAIN-KEYWORD,jfrp4f
-
-# Turkcell
-DOMAIN-SUFFIX,turkcell.com.tr
-DOMAIN-SUFFIX,eturkcell.netmera.com
-
-# Tami
-DOMAIN-SUFFIX,tami.com.tr
-DOMAIN-SUFFIX,garantibbva.com.tr
-DOMAIN-KEYWORD,garantibbva
-
-# Turgame
-DOMAIN-SUFFIX,turgame.com
-
-# Tutarla
-DOMAIN-SUFFIX,tutarla.com
+# Isbank and related services
+DOMAIN,isbank.com.tr
+DOMAIN-SUFFIX,isbank.com.tr
+DOMAIN,vpos2.isbank.com.tr
+DOMAIN-SUFFIX,vpos2.isbank.com.tr
 
 # iyzico and related services
 DOMAIN,static.iyzipay.com
@@ -85,70 +61,26 @@ DOMAIN-SUFFIX,iyzipay.com
 DOMAIN-KEYWORD,iyzico
 DOMAIN-SUFFIX,iyzico.com
 
-# Popypara
-DOMAIN-SUFFIX,popypara.com
-DOMAIN-KEYWORD,popypara
-
-# ininal
-DOMAIN-SUFFIX,ininal.com
-DOMAIN-KEYWORD,ininal
-
-# Sipay
-DOMAIN-SUFFIX,walletgate.io
-DOMAIN-KEYWORD,sipay
-
-# S Wallet
-DOMAIN,samsung-wallet.mokaunited.com
-
-# Uption
-DOMAIN,analytics.tr.adjust.com
-DOMAIN-SUFFIX,netmera.com
-DOMAIN-SUFFIX,aktifbank.com.tr
-
-# Zeepay
-DOMAIN-SUFFIX,zeepay.com.tr
-DOMAIN-KEYWORD,zeepay
-
-# Fastpay
-DOMAIN,fastpay.com.tr
-DOMAIN-SUFFIX,fastpay.com.tr
-
 # iyzipay API and services
 DOMAIN,iyzipay.com
 DOMAIN-SUFFIX,iyzipay.com
 DOMAIN,api.iyzipay.com
 DOMAIN-SUFFIX,api.iyzipay.com
 
-# Isbank and related services
-DOMAIN,isbank.com.tr
-DOMAIN-SUFFIX,isbank.com.tr
-DOMAIN,vpos2.isbank.com.tr
-DOMAIN-SUFFIX,vpos2.isbank.com.tr
+# Letim
+DOMAIN,letim.birlesikodeme.com
+DOMAIN-KEYWORD,letim
 
-# Verified by Visa 3D Secure
-DOMAIN,aacsw.3ds.verifiedbyvisa.com
-DOMAIN-SUFFIX,aacsw.3ds.verifiedbyvisa.com
+# Mars
+DOMAIN-SUFFIX,marsneo.com
+DOMAIN-KEYWORD,vsynmu
 
-# Payten 3D Secure
-DOMAIN,3d.payten.com.tr
-DOMAIN-SUFFIX,3d.payten.com.tr
+# Moka
+DOMAIN-SUFFIX,mokaunited.com
 
-# GPay
-DOMAIN,gpay.com.tr
-DOMAIN-SUFFIX,gpay.com.tr
-
-# Turgame and related services
-DOMAIN,turgame.com
-DOMAIN-SUFFIX,turgame.com
-
-# Epic
-DOMAIN-SUFFIX,razer.com
-
-# Gaijin
-DOMAIN-SUFFIX,gaijin.net
-
-# Wist
-DOMAIN-SUFFIX,ist-pay.com
+# Moneytolia
+DOMAIN-SUFFIX,moneytolia.com
+DOMAIN-KEYWORD,moneytolia
 
 # Other specific domains
 DOMAIN,*.com.tr
@@ -165,3 +97,75 @@ DOMAIN,*.denizbank.com
 DOMAIN,spos.denizbank.com
 DOMAIN-SUFFIX,denizbank.com
 DOMAIN-SUFFIX,spos.denizbank.com
+
+# Oyunfor
+DOMAIN-SUFFIX,oyunfor.com
+
+# Oyunfor and related domains
+DOMAIN-SUFFIX,oyunfor.com
+
+# Ozan
+DOMAIN-SUFFIX,ozan.com
+DOMAIN-KEYWORD,ozan
+
+# Papara
+DOMAIN-SUFFIX,papara.com
+DOMAIN-KEYWORD,papara
+
+# Paycell
+DOMAIN-SUFFIX,paycell.com.tr
+
+# Payten 3D Secure
+DOMAIN,3d.payten.com.tr
+DOMAIN-SUFFIX,3d.payten.com.tr
+
+# Popypara
+DOMAIN-SUFFIX,popypara.com
+DOMAIN-KEYWORD,popypara
+
+# S Wallet
+DOMAIN,samsung-wallet.mokaunited.com
+
+# Sipay
+DOMAIN-SUFFIX,walletgate.io
+DOMAIN-KEYWORD,sipay
+
+# Tami
+DOMAIN-SUFFIX,tami.com.tr
+DOMAIN-SUFFIX,garantibbva.com.tr
+DOMAIN-KEYWORD,garantibbva
+
+# Turan
+DOMAIN-SUFFIX,turan.app
+DOMAIN-KEYWORD,turan
+DOMAIN-KEYWORD,jfrp4f
+
+# Turgame
+DOMAIN-SUFFIX,turgame.com
+
+# Turgame and related services
+DOMAIN,turgame.com
+DOMAIN-SUFFIX,turgame.com
+
+# Turkcell
+DOMAIN-SUFFIX,turkcell.com.tr
+DOMAIN-SUFFIX,eturkcell.netmera.com
+
+# Tutarla
+DOMAIN-SUFFIX,tutarla.com
+
+# Uption
+DOMAIN,analytics.tr.adjust.com
+DOMAIN-SUFFIX,netmera.com
+DOMAIN-SUFFIX,aktifbank.com.tr
+
+# Verified by Visa 3D Secure
+DOMAIN,aacsw.3ds.verifiedbyvisa.com
+DOMAIN-SUFFIX,aacsw.3ds.verifiedbyvisa.com
+
+# Wist
+DOMAIN-SUFFIX,ist-pay.com
+
+# Zeepay
+DOMAIN-SUFFIX,zeepay.com.tr
+DOMAIN-KEYWORD,zeepay

@@ -119,6 +119,10 @@ DOMAIN-SUFFIX,paycell.com.tr
 DOMAIN,3d.payten.com.tr
 DOMAIN-SUFFIX,3d.payten.com.tr
 
+# Poca
+DOMAIN-SUFFIX,birlesikodeme.com
+DOMAIN-KEYWORD,poca
+
 # Popypara
 DOMAIN-SUFFIX,popypara.com
 DOMAIN-KEYWORD,popypara

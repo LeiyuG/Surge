@@ -108,6 +108,9 @@ DOMAIN-SUFFIX,oyunfor.com
 DOMAIN-SUFFIX,ozan.com
 DOMAIN-KEYWORD,ozan
 
+# On Mobil
+DOMAIN-SUFFIX,burgan.com.tr
+
 # Papara
 DOMAIN-SUFFIX,papara.com
 DOMAIN-KEYWORD,papara

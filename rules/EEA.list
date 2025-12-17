@@ -9,11 +9,6 @@ DOMAIN,api-eu.mixpanel.com
 DOMAIN-SUFFIX,getcino.com
 DOMAIN-KEYWORD,uwthsj
 
-# Ether.fi
-DOMAIN-SUFFIX,ether.fi
-DOMAIN-SUFFIX,cardinaltrusted.com
-DOMAIN-SUFFIX,cardinalcommerce.com
-
 # Curve
 DOMAIN,v2f4qe8g9b.execute-api.eu-west-2.amazonaws.com
 DOMAIN,sdk.fra-01.braze.eu
@@ -22,6 +17,11 @@ DOMAIN-SUFFIX,curve.com
 DOMAIN-SUFFIX,imaginecurve.com
 DOMAIN-KEYWORD,curve
 DOMAIN-KEYWORD,khhpzf
+
+# Ether.fi
+DOMAIN-SUFFIX,ether.fi
+DOMAIN-SUFFIX,cardinaltrusted.com
+DOMAIN-SUFFIX,cardinalcommerce.com
 
 # Fiat24
 DOMAIN,fiat24.com
@@ -34,6 +34,12 @@ DOMAIN-SUFFIX,ondigitalocean.app
 # Instarem
 DOMAIN-SUFFIX,instarem.com
 DOMAIN-KEYWORD,instarem
+
+# Kolo
+DOMAIN,0pqffs.launches.appsflyersdk.com
+DOMAIN,0pqffs.dynamic-config-api.appsflyersdk.com
+DOMAIN-SUFFIX,kolo.in
+DOMAIN-KEYWORD,kolo
 
 # Korona
 DOMAIN-SUFFIX,koronapay.com

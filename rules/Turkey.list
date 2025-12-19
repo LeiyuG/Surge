@@ -71,6 +71,9 @@ DOMAIN-SUFFIX,api.iyzipay.com
 DOMAIN,letim.birlesikodeme.com
 DOMAIN-KEYWORD,letim
 
+# Masterpass
+DOMAIN-SUFFIX,masterpassturkiye.com
+
 # Mars
 DOMAIN-SUFFIX,marsneo.com
 DOMAIN-KEYWORD,vsynmu

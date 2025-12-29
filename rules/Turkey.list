@@ -2,6 +2,7 @@
 
 # Ahlpay
 DOMAIN,e.clarity.ms
+DOMAIN,ahlatcistrg.blob.core.windows.net
 DOMAIN-SUFFIX,ahlpay.com.tr
 
 # Epic

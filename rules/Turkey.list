@@ -1,8 +1,8 @@
 # Turkey Service
 
 # Ahlpay
-DOMAIN,e.clarity.ms
 DOMAIN,ahlatcistrg.blob.core.windows.net
+DOMAIN-SUFFIX,clarity.ms
 DOMAIN-SUFFIX,ahlpay.com.tr
 
 # Epic

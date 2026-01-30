@@ -54,6 +54,13 @@ DOMAIN-SUFFIX,klarna.app
 DOMAIN-SUFFIX,klarna.com
 DOMAIN-KEYWORD,klarna
 
+# Moneda
+DOMAIN,pulse.walletconnect.org
+DOMAIN,api-gateway-xi-nine.vercel.app
+DOMAIN,o4508818243387392.ingest.de.sentry.io
+DOMAIN,consumer.inapp.customer.io
+DOMAIN,cdp-eu.customer.io
+
 # Moonpay
 DOMAIN-SUFFIX,moonpay.com
 DOMAIN-SUFFIX,moonpaycloud.com

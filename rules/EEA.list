@@ -87,6 +87,9 @@ DOMAIN,lwvwkh-launches.appsflyersdk.com
 # Silkpay
 DOMAIN-SUFFIX,s1lkpay.com
 
+# Sling
+DOMAIN-SUFFIX,sling.money
+
 # Stables
 DOMAIN,lhnkc0p5-ios.mobile-messenger.intercom.com
 DOMAIN-SUFFIX,branch.io

@@ -81,6 +81,10 @@ DOMAIN-SUFFIX,paysend.io
 DOMAIN-SUFFIX,yourpaysend.com
 DOMAIN-KEYWORD,paysend
 
+# Ria
+DOMAIN,api.iterable.com
+DOMAIN-SUFFIX,riamoneytransfer.com
+
 # Sendwave
 DOMAIN-SUFFIX,sendwave.com
 DOMAIN,lwvwkh-launches.appsflyersdk.com

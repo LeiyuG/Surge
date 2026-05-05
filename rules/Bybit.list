@@ -1,28 +1,40 @@
-# > Bybit Global
+# > Bybit
+
+# --- EU & Global ---
 DOMAIN-SUFFIX,bybit.com
-DOMAIN-SUFFIX,bytick.com
-DOMAIN-SUFFIX,byapps.net
-DOMAIN-SUFFIX,bybitapi.com
-DOMAIN-SUFFIX,bybit.cloud
-DOMAIN-SUFFIX,bybit-static.com
+DOMAIN-SUFFIX,bybit.eu
+DOMAIN-SUFFIX,bybit-eu.com
+DOMAIN-SUFFIX,bybit.nl
+DOMAIN-SUFFIX,bybit.fr
 DOMAIN-SUFFIX,bybit.io
 DOMAIN-SUFFIX,bybit.net
-DOMAIN-SUFFIX,bycsi.com
-DOMAIN-SUFFIX,by-csi.com
 DOMAIN-SUFFIX,bybit.biz
 DOMAIN-SUFFIX,bybit.org
-DOMAIN-SUFFIX,byd3c3.com
-DOMAIN-SUFFIX,bybdc6.com
-DOMAIN-SUFFIX,ada.support
-DOMAIN-SUFFIX,byabcde.com
-DOMAIN-SUFFIX,bitverse.zone
+DOMAIN-SUFFIX,bybit.cloud
+DOMAIN-SUFFIX,bybitapi.com
+DOMAIN-SUFFIX,bybit-static.com
 DOMAIN-SUFFIX,bybitglobal.com
 DOMAIN-SUFFIX,bybit-global.com
+DOMAIN-SUFFIX,bytick.com
+DOMAIN-SUFFIX,byapps.net
+
+# --- Sub-brands & Obfuscated Domains ---
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,byd3c3.com
+DOMAIN-SUFFIX,bybdc6.com
 DOMAIN-SUFFIX,byffbb.com
 DOMAIN-SUFFIX,bycsi.com
+DOMAIN-SUFFIX,by-csi.com
+DOMAIN-SUFFIX,bitverse.zone
+
+# --- Keywords ---
 DOMAIN-KEYWORD,bybitglobal
 DOMAIN-KEYWORD,bybit-global
-DOMAIN,m3ond3-launches.appsflyersdk.com
-DOMAIN,api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
-DOMAIN,relay.walletconnect.com
 
+# --- Specific Endpoints & Third-party ---
+DOMAIN,api-eu.bybit.com
+DOMAIN,sc-datasink.ffe390afd658c19dcbf707e0597b846d.de
+DOMAIN,api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
+DOMAIN,m3ond3-launches.appsflyersdk.com
+DOMAIN,relay.walletconnect.com
+DOMAIN-SUFFIX,ada.support

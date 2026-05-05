@@ -1,1 +1,12 @@
+# > Bybit EU (European Economic Area - bybit.eu)
+DOMAIN-SUFFIX,bybit.eu,BybitEU
+DOMAIN-SUFFIX,bybit-eu.com,BybitEU
+DOMAIN-SUFFIX,bybit.nl,BybitEU
+DOMAIN-SUFFIX,bybit.fr,BybitEU
+
+# > Bybit EU Specific API & Static
+DOMAIN,api.bybit.eu,BybitEU
+DOMAIN,static.bybit.eu,BybitEU
+DOMAIN,api-eu.bybit.com,BybitEU
+DOMAIN,sc-datasink.ffe390afd658c19dcbf707e0597b846d.de
 

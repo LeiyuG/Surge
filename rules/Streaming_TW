@@ -1,3 +1,13 @@
+# > 4gtv
+DOMAIN,ntdofifreepc.akamaized.net
+DOMAIN,ntdofifreepocpc.akamaized.net
+DOMAIN,ofissaifreepc.akamaized.net
+DOMAIN-SUFFIX,litv.tv
+DOMAIN-SUFFIX,ofiii.com
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,cdn.hinet.net
+DOMAIN-SUFFIX,ott.hinet.net
+
 # > Bahamut
 USER-AGENT,Anime*
 DOMAIN-SUFFIX,bahamut.com.tw

@@ -1,6 +1,11 @@
 # Bitget
 
+DOMAIN,h1dz7f.cdn-settings.appsflyersdk.com
+DOMAIN-SUFFIX,bgstatic.com
 DOMAIN-SUFFIX,bitget.com
 DOMAIN-SUFFIX,bitgetapp.com
+DOMAIN-SUFFIX,bitgetapps.com
+DOMAIN-SUFFIX,bitgetimg.com
+DOMAIN-SUFFIX,krbitget.com
 DOMAIN-KEYWORD,bitget
 DOMAIN-KEYWORD,bitgetapp

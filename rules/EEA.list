@@ -54,6 +54,9 @@ DOMAIN-SUFFIX,klarna.app
 DOMAIN-SUFFIX,klarna.com
 DOMAIN-KEYWORD,klarna
 
+# Lava
+DOMAIN-SUFFIX,lava.xyz
+
 # Moneda
 DOMAIN,pulse.walletconnect.org
 DOMAIN,api-gateway-xi-nine.vercel.app

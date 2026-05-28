@@ -23,6 +23,13 @@ DOMAIN-SUFFIX,ether.fi
 DOMAIN-SUFFIX,cardinaltrusted.com
 DOMAIN-SUFFIX,cardinalcommerce.com
 
+# eToro
+DOMAIN,d2hywr-skadsdkless.appsflyersdk.com
+DOMAIN,x8o64ufr-ios.mobile-messenger.intercom.com
+DOMAIN-SUFFIX,etoro.com
+DOMAIN-SUFFIX,etorostatic.com
+DOMAIN-KEYWORD,etoro
+
 # Fiat24
 DOMAIN,fiat24.com
 

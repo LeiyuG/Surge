@@ -81,10 +81,18 @@ DOMAIN-KEYWORD,welab
 
 # Futu富途
 DOMAIN,v1d3dx-skadsdkless.appsflyersdk.com
-DOMAIN-SUFFIX,futu5.com
 DOMAIN-SUFFIX,futunn.com
-DOMAIN-SUFFIX,futuhn.com
-DOMAIN-KEYWORD,futu
+DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,futu5.com
+
+# Moomoo (富途海外版) 及国际业务域名
+DOMAIN-SUFFIX,moomoo.com
+DOMAIN-SUFFIX,fututrade.com
+DOMAIN-SUFFIX,futusg.com
+DOMAIN-SUFFIX,futuie.com
+DOMAIN-SUFFIX,futuholdings.com
+DOMAIN-SUFFIX,futuesop.com
+
 
 # Clubsim
 DOMAIN-SUFFIX,clubsim.com.hk

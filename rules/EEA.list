@@ -88,6 +88,10 @@ DOMAIN-KEYWORD,paysend
 DOMAIN,api.iterable.com
 DOMAIN-SUFFIX,riamoneytransfer.com
 
+# Sumup
+DOMAIN-SUFFIX,sumup.io
+DOMAIN-KEYWORD,sumup
+
 # Sendwave
 DOMAIN-SUFFIX,sendwave.com
 DOMAIN,lwvwkh-launches.appsflyersdk.com

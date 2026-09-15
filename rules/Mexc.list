@@ -1,12 +1,42 @@
-# Mexc
+# MEXC
 
-DOMAIN,futures.greentreeone.com
-DOMAIN,wecar.myapp.com
 DOMAIN-SUFFIX,mexc.com
+DOMAIN-SUFFIX,mexc.co
+DOMAIN-SUFFIX,mexc.link
+DOMAIN-SUFFIX,mexc.app
+DOMAIN-SUFFIX,mexc.live
+DOMAIN-SUFFIX,mexc.zone
+DOMAIN-SUFFIX,mexc.io
+DOMAIN-SUFFIX,mexcglobal.com
+DOMAIN-SUFFIX,mexc-api.com
+DOMAIN-SUFFIX,mexcapi.com
+DOMAIN-SUFFIX,mexccdn.com
 DOMAIN-SUFFIX,mexcsensors.com
-DOMAIN-SUFFIX,gotoda.co
-DOMAIN-SUFFIX,greentreeone.com
-DOMAIN-SUFFIX,mocortech.com
-DOMAIN-SUFFIX,365huo.xyz
-DOMAIN,this-url-does-not-exist-1bc95419-c936-4698-b986-13cffe1ab29c.invalid
 
+# MEXC / MXC
+DOMAIN-SUFFIX,mxc.com
+DOMAIN-SUFFIX,mxc.ai
+DOMAIN-SUFFIX,mxcapi.com
+
+# MEXC App 业务 / 备用域
+DOMAIN-SUFFIX,mocortech.com
+DOMAIN-SUFFIX,greentreeone.com
+DOMAIN-SUFFIX,coldbookfly.ru
+DOMAIN-SUFFIX,hotbookzone.com
+DOMAIN-SUFFIX,flytogarden.com
+DOMAIN-SUFFIX,gotoda.co
+DOMAIN-SUFFIX,moloco.com
+DOMAIN-SUFFIX,payapptoday.com
+DOMAIN-SUFFIX,dgshen.com
+DOMAIN-SUFFIX,365huo.xyz
+
+# 风控 / 验证 / 第三方服务
+DOMAIN-SUFFIX,turingfraud.net
+DOMAIN-SUFFIX,geetest.com
+
+# 独立精确域名
+DOMAIN,s3-app-release.s3.ap-northeast-1.amazonaws.com
+DOMAIN,wecar.myapp.com
+
+# 特殊域名
+DOMAIN,this-url-does-not-exist-1bc95419-c936-4698-b986-13cffe1ab29c.invalid

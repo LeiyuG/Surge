@@ -1,0 +1,8 @@
+# TVB 北美
+
+DOMAIN,edge.api.brightcove.com
+DOMAIN,redirector.playback.us-east-1.api.prod.brightcove.com
+DOMAIN,fastly-signed-us-east-1-prod.brightcovecdn.com
+DOMAIN,ssaimanifest.prod.boltdns.net
+DOMAIN-SUFFIX,tvbaw.com
+DOMAIN-SUFFIX,playouts.now.amagi.tv

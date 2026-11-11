@@ -125,11 +125,6 @@ DOMAIN-SUFFIX,vancelian.com
 # Yallo esim
 DOMAIN-SUFFIX,yallo.ch
 
-# ZEN
-DOMAIN-SUFFIX,zen.com
-DOMAIN-SUFFIX,zendesk.com
-DOMAIN-SUFFIX,online-metrix.net
-
 # API
 DOMAIN,api2.branch.io
 DOMAIN-SUFFIX,sardine.ai

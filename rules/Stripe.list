@@ -1,15 +1,17 @@
-# Stripe - Surge RULE-SET
-# Core services and website assets
+# Stripe
+
+# Stripe 核心服务及官网
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,stripecdn.com
 DOMAIN-SUFFIX,stripeassets.com
 
-# Developer resources and related sites
+# 开发者、活动及相关站点
+DOMAIN-SUFFIX,stripe.partners
 DOMAIN-SUFFIX,stripe.dev
 DOMAIN-SUFFIX,stripe.events
 DOMAIN-SUFFIX,stripe.global
-DOMAIN,c.stripe.partners
+DOMAIN-SUFFIX,stripefeedback.com
 
-# Link payments
+# Link 支付
 DOMAIN-SUFFIX,link.com
